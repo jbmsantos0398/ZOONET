@@ -1,0 +1,36 @@
+<!----------------------------- _self ------ _blank ---------------->
+<p><a href="
+LINK🔴
+" target="_self"><b>
+NOME🔴
+</b><FONT COLOR="#FF0000">  (
+VERMELHO🔴
+)</FONT></a></p>
+<!------------------------------------------------------------------>
+<p><a href="
+Baixe o app ZOOMNET.png
+" target="_blank"><b><img src="Baixe o app ZOOMNET.png" width="460" height="345">
+</b><FONT COLOR="#FF0000">  (
+Baixe por qr code
+)</FONT></a></p>
+<!------------------------------------------------------------------>
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+img {
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+
+
+<p>Resize the browser window to see how the image will scale when the width is less than 460px.</p>
+
+</body>
+</html>
+
+
